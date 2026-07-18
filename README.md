@@ -42,7 +42,7 @@ OptiFolio helps you track your investments, view analytics, and get AI‑powered
         <br /><sub>Portfolio Overview</sub>
       </td>
       <td align="center">
-        <img src="Frontend/assets/images/portfolio.png" alt="Holdings" width="260" />
+        <img src="Frontend/assets/images/portfolio.png" alt="Holdings" width="210" />
         <br /><sub>Holdings</sub>
       </td>
       <td align="center">
