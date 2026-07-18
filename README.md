@@ -38,7 +38,7 @@ OptiFolio helps you track your investments, view analytics, and get AI‑powered
   <table>
     <tr>
       <td align="center">
-        <img src="Frontend/assets/images/portfolio_screen.png" alt="Portfolio Overview" width="260" />
+        <img src="Frontend/assets/images/portfolio_screen.png" alt="Portfolio Overview" width="210" />
         <br /><sub>Portfolio Overview</sub>
       </td>
       <td align="center">
@@ -46,27 +46,27 @@ OptiFolio helps you track your investments, view analytics, and get AI‑powered
         <br /><sub>Holdings</sub>
       </td>
       <td align="center">
-        <img src="Frontend/assets/images/rebalance_screen.png" alt="Rebalance" width="260" />
+        <img src="Frontend/assets/images/rebalance_screen.png" alt="Rebalance" width="210" />
         <br /><sub>Rebalance</sub>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="Frontend/assets/images/chatbot.png" alt="AI Assistant" width="260" />
+        <img src="Frontend/assets/images/chatbot.png" alt="AI Assistant" width="210" />
         <br /><sub>AI Assistant</sub>
       </td>
       <td align="center">
-        <img src="Frontend/assets/images/analytics.png" alt="Analytics" width="260" />
+        <img src="Frontend/assets/images/analytics.png" alt="Analytics" width="210" />
         <br /><sub>Analytics</sub>
       </td>
       <td align="center">
-        <img src="Frontend/assets/images/news.png" alt="News & Alerts" width="260" />
+        <img src="Frontend/assets/images/news.png" alt="News & Alerts" width="210" />
         <br /><sub>News & Alerts</sub>
       </td>
     </tr>
     <tr>
       <td align="center" colspan="3">
-        <img src="Frontend/assets/images/stock_screen.png" alt="Stock Details" width="300" />
+        <img src="Frontend/assets/images/stock_screen.png" alt="Stock Details" width="210" />
         <br /><sub>Stock Details</sub>
       </td>
     </tr>
