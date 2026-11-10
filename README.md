@@ -1,6 +1,6 @@
-# OptiFolio: Portfolio Tracker
+# InvestIQ: Portfolio Tracker
 
-A full‑stack investment portfolio and analytics application. OptiFolio combines a Flutter mobile app, a Node.js + MongoDB backend, and a Python RL service for portfolio rebalancing.
+A full‑stack investment portfolio and analytics application. InvestIQ combines a Flutter mobile app, a Node.js + MongoDB backend, and a Python RL service for portfolio rebalancing.
 
 
 ---
@@ -27,7 +27,7 @@ A full‑stack investment portfolio and analytics application. OptiFolio combine
 ---
 
 ## Overview
-OptiFolio helps you track your investments, view analytics, and get AI‑powered insights. It supports onboarding/auth, portfolio CRUD, analytics, alerts, news, search, and an RL‑based rebalancer.
+InvestIQ helps you track your investments, view analytics, and get AI‑powered insights. It supports onboarding/auth, portfolio CRUD, analytics, alerts, news, search, and an RL‑based rebalancer.
 
 ---
 
@@ -77,7 +77,7 @@ OptiFolio helps you track your investments, view analytics, and get AI‑powered
 
 ## Monorepo Structure
 ```
-OptiFolio/
+InvestIQ/
 ├── Frontend/                 # Flutter app
 │   ├── lib/
 │   │   ├── widgets/
